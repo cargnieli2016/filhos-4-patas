@@ -13,7 +13,16 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        display: ['Fredoka', 'sans-serif'],
+        body: ['Nunito', 'sans-serif'],
+      },
       colors: {
+        "warm-cream": "hsl(var(--warm-cream))",
+        "warm-sand": "hsl(var(--warm-sand))",
+        "warm-brown": "hsl(var(--warm-brown))",
+        whatsapp: "hsl(var(--whatsapp))",
+        instagram: "hsl(var(--instagram))",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
