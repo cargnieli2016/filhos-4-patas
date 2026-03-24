@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Projeto Pet-Shop
 
-TODO: Document your project here
+Projeto feito com IA para um pet shop
