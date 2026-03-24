@@ -8,4 +8,4 @@ Projeto feito com IA para um pet shop, utilizando as seguintes tecnologias:
    4. Tailwind CSS: Usado para estilizar o site de forma rápida e moderna (tailwind.config.ts).
    5. shadcn/ui: Uma biblioteca de componentes prontos e bonitos (como botões, menus e formulários) que fica na pasta src/components/ui.
    6. Bun: O Bun é usado como gerenciador de pacotes e executor (arquivos bun.lockb).
-   7. Lucide React: Muito provavelmente usada para os ícones (comum em projetos que usam shadcn/ui).
+   7. Lucide React: Usada para os ícones (comum em projetos que usam shadcn/ui).
